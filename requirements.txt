@@ -1,7 +1,6 @@
 beautifulsoup4
 geopy
 pep8
-psycopg2
 pyflakes
 pytest
 django
