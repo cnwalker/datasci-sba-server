@@ -21,6 +21,7 @@ python-google-places
 PyYAML
 scipy
 seaborn
+django
 SQLAlchemy
 statsmodels
 testing.postgresql
