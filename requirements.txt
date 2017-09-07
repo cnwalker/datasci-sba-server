@@ -1,13 +1,8 @@
 beautifulsoup4
 geopy
-gitpython
-nbconvert
-nbformat
-pandas
 pep8
 psycopg2
 pyflakes
-pylint
 pytest
 django
 testing.postgresql
