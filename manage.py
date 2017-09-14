@@ -3,7 +3,6 @@ import os
 import sys
 
 if __name__ == "__main__":
-    os.environ['SBA_DWH'] = 'postgresql://datascisba@c4sf-sba:M14yeGIejisf9kz@c4sf-sba.postgres.database.azure.com:5432/postgres'
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "first_project.settings")
     try:
         from django.core.management import execute_from_command_line
